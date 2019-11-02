@@ -1,0 +1,28 @@
+body {
+	margin: 0px;
+}
+.container {
+	display: flex;
+	flex-content:center;
+	flex-wrap: wrap;
+}
+h1 {
+	margin-top: 5px;
+	font-family: "TrueType font file";
+    font-size: 3em;
+    border-bottom: 2px solid #6b00ffa6;
+    border-right: 2px solid #6b00ffa6;
+    width: 600px;
+    text-align: center;
+    box-shadow: 4px 5px 5px #615b5bb0;
+}
+
+img {
+	width: 300px;
+	height: 200px;
+	margin: 10px;
+	transition: all .3s;
+}
+img:hover {
+	transform: scale(1.2);
+}

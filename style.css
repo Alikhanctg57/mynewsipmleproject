@@ -1,0 +1,23 @@
+/*selector {
+	property: value: ;
+}*/
+body {
+	background-color: #2435383b; 
+}
+h1 {
+	color: danger;
+	border: 5px solid rgba(14, 14, 228, .2);
+	cursor: progress;
+}
+
+h2 {
+	color: green;
+}
+p {
+	color: blue;
+}
+
+li {
+	display: inline-block;
+
+}
